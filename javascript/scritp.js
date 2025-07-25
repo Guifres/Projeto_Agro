@@ -15,7 +15,7 @@ function calcular(){
     Lucro Dia: R$${LucroDia.toFixed(2)}<br>
     Lucro Mês: R$${LucroMes.toFixed(2)}<br>
     Porcentagem de Lucro: ${PorcentagemLucro.toFixed(2)} % <br>
-    Porcentagem de Gasto esta de: R$${PorcetagemGasto.toFixed(2)} % <br> 
+    Porcentagem de Gasto esta de: ${PorcetagemGasto.toFixed(2)} % <br> 
     <p/>`
 
 }
